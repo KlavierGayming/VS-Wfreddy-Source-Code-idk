@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="freddy_shake.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Freddy shake0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="Freddy shake0001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="Freddy shake0002" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="Freddy shake0003" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="Freddy shake0004" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="Freddy shake0005" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="Freddy shake0006" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="Freddy shake0007" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="Freddy shake0008" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="Freddy shake0009" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="Freddy shake0010" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="Freddy shake0011" x="2560" y="2160" width="1280" height="720"/>
+	<SubTexture name="Freddy shake0012" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="Freddy shake0013" x="1280" y="2880" width="1280" height="720"/>
+	<SubTexture name="Freddy shake0014" x="2560" y="2880" width="1280" height="720"/>
+	<SubTexture name="Freddy shake0015" x="0" y="3600" width="1280" height="720"/>
+	<SubTexture name="Freddy shake0016" x="1280" y="3600" width="1280" height="720"/>
+	<SubTexture name="Freddy shake0017" x="2560" y="3600" width="1280" height="720"/>
+	<SubTexture name="Freddy shake0018" x="0" y="4320" width="1280" height="720"/>
+	<SubTexture name="Freddy shake0019" x="1280" y="4320" width="1280" height="720"/>
+</TextureAtlas>

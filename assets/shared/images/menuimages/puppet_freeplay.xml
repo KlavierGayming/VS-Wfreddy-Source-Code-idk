@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="puppet_freeplay.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Puppet shake0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="Puppet shake0001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="Puppet shake0002" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="Puppet shake0003" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="Puppet shake0004" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="Puppet shake0005" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="Puppet shake0006" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="Puppet shake0007" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="Puppet shake0008" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="Puppet shake0009" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="Puppet shake0010" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="Puppet shake0011" x="2560" y="2160" width="1280" height="720"/>
+	<SubTexture name="Puppet shake0012" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="Puppet shake0013" x="1280" y="2880" width="1280" height="720"/>
+	<SubTexture name="Puppet shake0014" x="2560" y="2880" width="1280" height="720"/>
+	<SubTexture name="Puppet shake0015" x="0" y="3600" width="1280" height="720"/>
+	<SubTexture name="Puppet shake0016" x="1280" y="3600" width="1280" height="720"/>
+	<SubTexture name="Puppet shake0017" x="2560" y="3600" width="1280" height="720"/>
+	<SubTexture name="Puppet shake0018" x="0" y="4320" width="1280" height="720"/>
+	<SubTexture name="Puppet shake0019" x="1280" y="4320" width="1280" height="720"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_remnant.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="220" height="220"/>
+	<SubTexture name="green0000" x="220" y="0" width="220" height="220"/>
+	<SubTexture name="purple0000" x="0" y="220" width="220" height="220"/>
+	<SubTexture name="red0000" x="220" y="220" width="220" height="220"/>
+</TextureAtlas>

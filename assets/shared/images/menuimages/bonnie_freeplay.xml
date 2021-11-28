@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bonnie_freeplay.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bonnie shake0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="bonnie shake0001" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="bonnie shake0002" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="bonnie shake0003" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="bonnie shake0004" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="bonnie shake0005" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="bonnie shake0006" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="bonnie shake0007" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="bonnie shake0008" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="bonnie shake0009" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="bonnie shake0010" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="bonnie shake0011" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="bonnie shake0012" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="bonnie shake0013" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="bonnie shake0014" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="bonnie shake0015" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="bonnie shake0016" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="bonnie shake0017" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="bonnie shake0018" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="bonnie shake0019" x="0" y="0" width="1280" height="720"/>
+</TextureAtlas>

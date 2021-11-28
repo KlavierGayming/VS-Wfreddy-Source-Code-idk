@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bb_assets.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bb coming0000" x="0" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0001" x="1280" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0002" x="2560" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0003" x="3840" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0004" x="5120" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0005" x="6400" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0006" x="0" y="720" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0007" x="1280" y="720" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0008" x="2560" y="720" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0009" x="3840" y="720" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0010" x="5120" y="720" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0011" x="6400" y="720" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0012" x="0" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0013" x="1280" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0014" x="2560" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0015" x="3840" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0016" x="5120" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0017" x="6400" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0018" x="0" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0019" x="1280" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0020" x="2560" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0021" x="3840" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0022" x="5120" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0023" x="6400" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0024" x="0" y="2880" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0025" x="1280" y="2880" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0026" x="2560" y="2880" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0027" x="3840" y="2880" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0028" x="5120" y="2880" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0029" x="6400" y="2880" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0030" x="0" y="3600" width="3250" height="1336"/>
+	<SubTexture name="bb coming0031" x="3250" y="3600" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0032" x="4530" y="3600" width="1280" height="720" frameX="0" frameY="0" frameWidth="3250" frameHeight="1336"/>
+	<SubTexture name="bb coming0033" x="5810" y="3600" width="1280" height="720"/>
+	<SubTexture name="bb idle0000" x="5810" y="3600" width="1280" height="720"/>
+	<SubTexture name="bb idle0001" x="0" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0002" x="1280" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0003" x="2560" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0004" x="3840" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0005" x="5120" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0006" x="6400" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0007" x="0" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0008" x="1280" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0009" x="2560" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0010" x="3840" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0011" x="5120" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0012" x="6400" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0013" x="0" y="6376" width="1280" height="720"/>
+	<SubTexture name="bb idle0014" x="1280" y="6376" width="1280" height="720"/>
+	<SubTexture name="bb idle0015" x="5810" y="3600" width="1280" height="720"/>
+	<SubTexture name="bb idle0016" x="0" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0017" x="1280" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0018" x="2560" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0019" x="3840" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0020" x="5120" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0021" x="6400" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0022" x="0" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0023" x="1280" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0024" x="2560" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0025" x="3840" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0026" x="5120" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0027" x="6400" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0028" x="0" y="6376" width="1280" height="720"/>
+	<SubTexture name="bb idle0029" x="5810" y="3600" width="1280" height="720"/>
+	<SubTexture name="bb idle0030" x="0" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0031" x="1280" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0032" x="2560" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0033" x="3840" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0034" x="5120" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0035" x="6400" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0036" x="0" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0037" x="1280" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0038" x="2560" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0039" x="3840" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0040" x="5120" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0041" x="6400" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0042" x="0" y="6376" width="1280" height="720"/>
+	<SubTexture name="bb idle0043" x="1280" y="6376" width="1280" height="720"/>
+	<SubTexture name="bb idle0044" x="5810" y="3600" width="1280" height="720"/>
+	<SubTexture name="bb idle0045" x="0" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0046" x="1280" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0047" x="2560" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0048" x="3840" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0049" x="5120" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0050" x="6400" y="4936" width="1280" height="720"/>
+	<SubTexture name="bb idle0051" x="0" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0052" x="1280" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0053" x="2560" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0054" x="3840" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0055" x="5120" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0056" x="6400" y="5656" width="1280" height="720"/>
+	<SubTexture name="bb idle0057" x="0" y="6376" width="1280" height="720"/>
+	<SubTexture name="bb idle0058" x="1280" y="6376" width="1280" height="720"/>
+	<SubTexture name="bb idle0059" x="0" y="6376" width="1280" height="720"/>
+	<SubTexture name="bb leaving0000" x="2560" y="6376" width="1280" height="720"/>
+	<SubTexture name="bb leaving0001" x="3840" y="6376" width="1280" height="720"/>
+	<SubTexture name="bb leaving0002" x="5120" y="6376" width="1280" height="720"/>
+	<SubTexture name="bb leaving0003" x="6400" y="6376" width="1280" height="720"/>
+	<SubTexture name="bb leaving0004" x="0" y="7096" width="1280" height="720"/>
+	<SubTexture name="bb leaving0005" x="1280" y="7096" width="1280" height="720"/>
+	<SubTexture name="bb leaving0006" x="2560" y="7096" width="1280" height="720"/>
+	<SubTexture name="bb leaving0007" x="3840" y="7096" width="1280" height="720"/>
+	<SubTexture name="bb leaving0008" x="5120" y="7096" width="1280" height="720"/>
+	<SubTexture name="bb leaving0009" x="5120" y="7096" width="1280" height="720"/>
+	<SubTexture name="bb leaving0010" x="6400" y="7096" width="1280" height="720"/>
+	<SubTexture name="bb leaving0011" x="6400" y="7096" width="1280" height="720"/>
+</TextureAtlas>

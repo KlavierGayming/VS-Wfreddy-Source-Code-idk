@@ -1,0 +1,13 @@
+Tutorial:witheredfreddy:1
+Nightshift:witheredfreddy:2
+Flashinglights:puppet:2
+Shadows:shadowbonnie:2
+Nightshift-Hard:witheredfreddy:3
+Flashinglights-Hard:puppet:3
+Shadows-Hard:shadowbonnie:3
+Nightshift-Easy:witheredfreddy:4
+Flashinglights-Easy:puppet:4
+Shadows-Easy:shadowbonnie:4
+Nightshift-Freeplay:witheredfreddy:5
+Flashinglights-Freeplay:puppet:5
+Shadows-Freeplay:shadowbonnie:5
